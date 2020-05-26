@@ -6,28 +6,28 @@
         "value": "TeamsProvisioningDev"
       },
       "repoUrl": {
-        "value": "https://github.com/BobGerman/TeamsProvisioning.git"
+        "value": "https://github.com/jamescroft/TeamsProvisioning.git"
       },
       "branch": {
-        "value": "dev"
+        "value": "master"
       },
       "TENANT": {
-        "value": "a25d4ef1-c73a-4dc1-bdb1-9a342260f216"
+        "value": "c868bbfa-99c8-448e-98e7-ee9bc25e0566"
       },
       "TENANT_NAME": {
-        "value": "bgtest18"
+        "value": "tafeqld365dev"
       },
       "CLIENT_ID": {
-        "value": "3b34741d-68fc-4465-b25e-d6fba3de701d"
+        "value": "726159bb-5777-4315-bb43-df5796d31a6c"
       },
       "CLIENT_SECRET": {
-        "value": "@Microsoft.KeyVault(SecretUri=https://teamsprovisioning.vault.azure.net/secrets/client-secret/cd56ab45a33e47bfb0b091c75b99099a)"
+        "value": "@Microsoft.KeyVault(SecretUri=https://tqkeyvault.vault.azure.net/secrets/TeamsProv/780ff2a28c0248fbb2e1cc0159cb2f0a)"
       },
       "TEMPLATE_SITE_URL": {
-        "value": "/sites/TeamsProvisioning"
+        "value": "/sites/TeamsTemplates"
       },
       "TEMPLATE_LIB_NAME": {
-        "value": "templates"
+        "value": "TeamsTemplates"
       }
     }
   }
